@@ -1,0 +1,22 @@
+.section {
+    margin: 20px auto;
+    padding: 10px;
+    box-shadow: 0px 0px 6px #ccc;
+}
+
+.section__header {
+    color: #32abe3;
+    text-shadow: 6px 6px 6px #0b0f14;
+}
+
+.section__importantItem {
+    color: #69d2ff;
+}
+
+.section__photo {
+    width: 100%;
+}
+
+.section__photo--hide {
+    display: none;
+}

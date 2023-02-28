@@ -1,0 +1,13 @@
+.body__dark {
+    background-color: #30353e;
+    color: #ebebeb;
+    max-width: 1000px;
+    padding: 5px 20px;
+    margin: 20px auto;
+    font-family: "Poppins", sans-serif;
+    line-height: 1.5;
+}
+
+.body--darker {
+    background-color: #0e0f12;
+}

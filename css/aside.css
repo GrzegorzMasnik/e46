@@ -1,0 +1,22 @@
+.aside {
+    border: 5px solid #808080;
+    padding: 10px;
+    margin: 30px 10px 10px;
+    box-shadow: 0px 0px 6px inset #ccc;
+}
+
+.aside__list {
+    padding-left: 20px;
+}
+
+.aside__link {
+    margin: 5px 0;
+    color: #5fb4f4;
+    text-decoration: none;
+}
+
+.aside__link:hover {
+    color: #69d2ff;
+    border-bottom: 1px solid;
+    outline: none;
+}
